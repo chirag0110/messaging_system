@@ -24,7 +24,7 @@ First, you need to clone the Git repository using the below command in your loca
 
 After cloning the Repository, Switch to the repo folder.
 
-`cd messaging-system_laravel`
+`cd messaging_system`
 
 # Composer
 
